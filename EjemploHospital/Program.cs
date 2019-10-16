@@ -50,7 +50,7 @@ namespace EjemploHospital
                 {
                     sanitario.Mostrar();
                 }
-                
+                adsad
             }
 
 
